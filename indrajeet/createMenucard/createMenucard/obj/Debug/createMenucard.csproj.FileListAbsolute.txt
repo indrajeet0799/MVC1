@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\indrajeet\createMenucard\createMenucard\bin\Debug\createMenucard.exe.config
+C:\Users\admin\Desktop\indrajeet\createMenucard\createMenucard\bin\Debug\createMenucard.exe
+C:\Users\admin\Desktop\indrajeet\createMenucard\createMenucard\bin\Debug\createMenucard.pdb
+C:\Users\admin\Desktop\indrajeet\createMenucard\createMenucard\obj\Debug\createMenucard.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\indrajeet\createMenucard\createMenucard\obj\Debug\createMenucard.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\indrajeet\createMenucard\createMenucard\obj\Debug\createMenucard.Frm1.resources
+C:\Users\admin\Desktop\indrajeet\createMenucard\createMenucard\obj\Debug\createMenucard.frmMenu.resources
+C:\Users\admin\Desktop\indrajeet\createMenucard\createMenucard\obj\Debug\createMenucard.Properties.Resources.resources
+C:\Users\admin\Desktop\indrajeet\createMenucard\createMenucard\obj\Debug\createMenucard.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\indrajeet\createMenucard\createMenucard\obj\Debug\createMenucard.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\indrajeet\createMenucard\createMenucard\obj\Debug\createMenucard.exe
+C:\Users\admin\Desktop\indrajeet\createMenucard\createMenucard\obj\Debug\createMenucard.pdb
+C:\Users\admin\Desktop\indrajeet\createMenucard\createMenucard\obj\Debug\createMenucard.frm3.resources

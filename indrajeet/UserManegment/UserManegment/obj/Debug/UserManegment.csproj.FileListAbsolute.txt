@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\indrajeet\UserManegment\UserManegment\bin\Debug\UserManegment.exe.config
+C:\Users\admin\Desktop\indrajeet\UserManegment\UserManegment\bin\Debug\UserManegment.exe
+C:\Users\admin\Desktop\indrajeet\UserManegment\UserManegment\bin\Debug\UserManegment.pdb
+C:\Users\admin\Desktop\indrajeet\UserManegment\UserManegment\obj\Debug\UserManegment.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\indrajeet\UserManegment\UserManegment\obj\Debug\UserManegment.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\indrajeet\UserManegment\UserManegment\obj\Debug\UserManegment.Form1.resources
+C:\Users\admin\Desktop\indrajeet\UserManegment\UserManegment\obj\Debug\UserManegment.Properties.Resources.resources
+C:\Users\admin\Desktop\indrajeet\UserManegment\UserManegment\obj\Debug\UserManegment.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\indrajeet\UserManegment\UserManegment\obj\Debug\UserManegment.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\indrajeet\UserManegment\UserManegment\obj\Debug\UserManegment.exe
+C:\Users\admin\Desktop\indrajeet\UserManegment\UserManegment\obj\Debug\UserManegment.pdb

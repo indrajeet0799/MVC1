@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="First.master.cs" Inherits="ASPshopmanagement.First" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style2 {
+            height: 562px;
+            width: 611px;
+        }
+        .auto-style3 {
+            width: 335px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <table class="auto-style1">
+            <tr>
+                <td colspan="2" class="auto-style5">
+                    <img alt="" class="auto-style4" src="Content/image%20shopping.jfif" /></td>
+            </tr>
+            <tr>
+                <td class="auto-style3">
+                    <asp:Menu ID="Menu1" runat="server">
+                        <Items>
+                            <asp:MenuItem NavigateUrl="~/Home.aspx" Text="Home" Value="Home"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/About1.aspx" Text="About1" Value="About"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Login.aspx" Text="Login" Value="Login"></asp:MenuItem>
+                        </Items>
+                        <StaticMenuItemStyle HorizontalPadding="100px" VerticalPadding="30px" />
+                    </asp:Menu>
+                </td>
+                <td class="auto-style2">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="background-color:blueviolet;text-align:center;">copyright@Indrajit.com</td>
+            </tr>
+        </table>
+        <div>
+        </div>
+    </form>
+</body>
+</html>

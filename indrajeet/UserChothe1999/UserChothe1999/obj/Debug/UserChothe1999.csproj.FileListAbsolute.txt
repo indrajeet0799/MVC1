@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\indrajeet\UserChothe1999\UserChothe1999\bin\Debug\UserChothe1999.exe.config
+C:\Users\admin\Desktop\indrajeet\UserChothe1999\UserChothe1999\bin\Debug\UserChothe1999.exe
+C:\Users\admin\Desktop\indrajeet\UserChothe1999\UserChothe1999\bin\Debug\UserChothe1999.pdb
+C:\Users\admin\Desktop\indrajeet\UserChothe1999\UserChothe1999\obj\Debug\UserChothe1999.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\indrajeet\UserChothe1999\UserChothe1999\obj\Debug\UserChothe1999.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\indrajeet\UserChothe1999\UserChothe1999\obj\Debug\UserChothe1999.Form1.resources
+C:\Users\admin\Desktop\indrajeet\UserChothe1999\UserChothe1999\obj\Debug\UserChothe1999.Properties.Resources.resources
+C:\Users\admin\Desktop\indrajeet\UserChothe1999\UserChothe1999\obj\Debug\UserChothe1999.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\indrajeet\UserChothe1999\UserChothe1999\obj\Debug\UserChothe1999.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\indrajeet\UserChothe1999\UserChothe1999\obj\Debug\UserChothe1999.exe
+C:\Users\admin\Desktop\indrajeet\UserChothe1999\UserChothe1999\obj\Debug\UserChothe1999.pdb

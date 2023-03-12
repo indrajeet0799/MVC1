@@ -1,0 +1,53 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="ASPshopmanagement.Admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            height: 27px;
+        }
+        .auto-style3 {
+            height: 123px;
+        }
+        .auto-style4 {
+            height: 413px;
+        }
+        .auto-style5 {
+            width: 1483px;
+            height: 159px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <table class="auto-style1">
+            <tr>
+                <td class="auto-style3">
+                    <img alt="" class="auto-style5" src="Content/image/admin.jfif" /></td>
+            </tr>
+            <tr>
+                <td class="auto-style4">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color:aquamarine;">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style2"></td>
+            </tr>
+        </table>
+        <div>
+        </div>
+    </form>
+</body>
+</html>

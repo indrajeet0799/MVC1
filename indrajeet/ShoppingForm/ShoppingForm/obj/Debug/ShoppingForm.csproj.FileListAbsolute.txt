@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\indrajeet\ShoppingForm\ShoppingForm\bin\Debug\ShoppingForm.exe.config
+C:\Users\admin\Desktop\indrajeet\ShoppingForm\ShoppingForm\bin\Debug\ShoppingForm.exe
+C:\Users\admin\Desktop\indrajeet\ShoppingForm\ShoppingForm\bin\Debug\ShoppingForm.pdb
+C:\Users\admin\Desktop\indrajeet\ShoppingForm\ShoppingForm\obj\Debug\ShoppingForm.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\indrajeet\ShoppingForm\ShoppingForm\obj\Debug\ShoppingForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\indrajeet\ShoppingForm\ShoppingForm\obj\Debug\ShoppingForm.Form1.resources
+C:\Users\admin\Desktop\indrajeet\ShoppingForm\ShoppingForm\obj\Debug\ShoppingForm.Properties.Resources.resources
+C:\Users\admin\Desktop\indrajeet\ShoppingForm\ShoppingForm\obj\Debug\ShoppingForm.frmType.resources
+C:\Users\admin\Desktop\indrajeet\ShoppingForm\ShoppingForm\obj\Debug\ShoppingForm.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\indrajeet\ShoppingForm\ShoppingForm\obj\Debug\ShoppingForm.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\indrajeet\ShoppingForm\ShoppingForm\obj\Debug\ShoppingForm.exe
+C:\Users\admin\Desktop\indrajeet\ShoppingForm\ShoppingForm\obj\Debug\ShoppingForm.pdb
+C:\Users\admin\Desktop\indrajeet\ShoppingForm\ShoppingForm\obj\Debug\ShoppingForm.frmProduct.resources
+C:\Users\admin\Desktop\indrajeet\ShoppingForm\ShoppingForm\obj\Debug\ShoppingForm.frmSize.resources
+C:\Users\admin\Desktop\indrajeet\ShoppingForm\ShoppingForm\obj\Debug\ShoppingForm.frmRegister.resources
+C:\Users\admin\Desktop\indrajeet\ShoppingForm\ShoppingForm\obj\Debug\ShoppingForm.Ordercs.resources

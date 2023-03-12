@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Customer.master.cs" Inherits="ASPshopmanagement.Customer" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            height: 58px;
+            background-color:deepskyblue;
+        }
+        .auto-style3 {
+            height: 671px;
+        }
+        .auto-style4 {
+            height: 201px;
+        }
+        .auto-style5 {
+            width: 1343px;
+            height: 188px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table class="auto-style1">
+                <tr>
+                    <td class="auto-style4">
+                        <img alt="" class="auto-style5" src="Content/image/customer.jfif" /></td>
+                </tr>
+                <tr>
+                    <td class="auto-style3">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2"></td>
+                </tr>
+            </table>
+        </div>
+    </form>
+</body>
+</html>

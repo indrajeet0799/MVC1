@@ -1,0 +1,457 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{202E18EA-6844-40AF-A96E-EECC572C4BF7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PsyTestManagement</RootNamespace>
+    <AssemblyName>PsyTestManagement</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Print, Version=1.0.1.2, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Grumsom.cSharp.Print.1.0.1.2\lib\net461\Print.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Above18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Above18.designer.cs">
+      <DependentUpon>Above18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Below18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Below18.designer.cs">
+      <DependentUpon>Below18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePassword.designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Client Enter Exam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Client Enter Exam.designer.cs">
+      <DependentUpon>Client Enter Exam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientresult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientresult.designer.cs">
+      <DependentUpon>Clientresult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Edin_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edin_Admin.Designer.cs">
+      <DependentUpon>Edin_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forgot_Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forgot_Password.Designer.cs">
+      <DependentUpon>Forgot_Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddPayment.designer.cs">
+      <DependentUpon>frmAddPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddQue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddQue.designer.cs">
+      <DependentUpon>frmAddQue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddTestType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddTestType.designer.cs">
+      <DependentUpon>frmAddTestType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewTestPaper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewTestPaper.designer.cs">
+      <DependentUpon>frmNewTestPaper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPayment.designer.cs">
+      <DependentUpon>frmPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReceipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReceipt.designer.cs">
+      <DependentUpon>frmReceipt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStartTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStartTest.designer.cs">
+      <DependentUpon>FrmStartTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTestInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTestInformation.designer.cs">
+      <DependentUpon>FrmTestInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTestManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTestManagement.designer.cs">
+      <DependentUpon>frmTestManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTestView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTestView.designer.cs">
+      <DependentUpon>frmTestView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LayoutDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LayoutDashboard.designer.cs">
+      <DependentUpon>LayoutDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports.designer.cs">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Result.designer.cs">
+      <DependentUpon>Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resultgraph.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resultgraph.designer.cs">
+      <DependentUpon>Resultgraph.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffInfo.designer.cs">
+      <DependentUpon>StaffInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staff_Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff_Registration.designer.cs">
+      <DependentUpon>Staff_Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student_Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student_Info.designer.cs">
+      <DependentUpon>Student_Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student_Reg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student_Reg.designer.cs">
+      <DependentUpon>Student_Reg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stud_Reg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stud_Reg.designer.cs">
+      <DependentUpon>Stud_Reg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateStaff-Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateStaff-Information.designer.cs">
+      <DependentUpon>UpdateStaff-Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update_Above18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update_Above18.designer.cs">
+      <DependentUpon>Update_Above18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update_Below18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update_Below18.designer.cs">
+      <DependentUpon>Update_Below18.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Above18.resx">
+      <DependentUpon>Above18.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Below18.resx">
+      <DependentUpon>Below18.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Client Enter Exam.resx">
+      <DependentUpon>Client Enter Exam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientresult.resx">
+      <DependentUpon>Clientresult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edin_Admin.resx">
+      <DependentUpon>Edin_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forgot_Password.resx">
+      <DependentUpon>Forgot_Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddPayment.resx">
+      <DependentUpon>frmAddPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddQue.aa.resx">
+      <DependentUpon>frmAddQue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddQue.mr-IN.resx">
+      <DependentUpon>frmAddQue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddQue.mr.resx">
+      <DependentUpon>frmAddQue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddQue.resx">
+      <DependentUpon>frmAddQue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddTestType.resx">
+      <DependentUpon>frmAddTestType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewTestPaper.resx">
+      <DependentUpon>frmNewTestPaper.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPayment.resx">
+      <DependentUpon>frmPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReceipt.resx">
+      <DependentUpon>frmReceipt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStartTest.resx">
+      <DependentUpon>FrmStartTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTestInformation.resx">
+      <DependentUpon>FrmTestInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTestManagement.resx">
+      <DependentUpon>frmTestManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTestView.resx">
+      <DependentUpon>frmTestView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LayoutDashboard.resx">
+      <DependentUpon>LayoutDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reports.resx">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Result.resx">
+      <DependentUpon>Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resultgraph.resx">
+      <DependentUpon>Resultgraph.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffInfo.resx">
+      <DependentUpon>StaffInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff_Registration.resx">
+      <DependentUpon>Staff_Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student_Info.resx">
+      <DependentUpon>Student_Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student_Reg.resx">
+      <DependentUpon>Student_Reg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stud_Reg.resx">
+      <DependentUpon>Stud_Reg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateStaff-Information.resx">
+      <DependentUpon>UpdateStaff-Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update_Above18.resx">
+      <DependentUpon>Update_Above18.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update_Below18.resx">
+      <DependentUpon>Update_Below18.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-preparing-for-the-college-entrance-examination-college-entrance-examination-sprint-poster-image_192440.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login gif.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Password icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TestManagement\TestManagement.csproj">
+      <Project>{012871e7-e7e8-4b2a-af45-a9730285c1ce}</Project>
+      <Name>TestManagement</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\87C9C2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2022-11-16 at 11.03.12 AM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Office2013CustomActionsLib">
+      <Guid>{AB4D3FA3-21B9-443C-886E-FC4A417D3E4D}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search icon %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\aaditya foundation.png" />
+    <None Include="Resources\aaditya foundation1.png" />
+    <Content Include="Resources\Delete.jpg" />
+    <Content Include="Resources\Edit.jpg" />
+    <Content Include="Resources\WhatsApp Image 2022-11-25 at 12.21.17 PM.jpeg" />
+    <None Include="Resources\WhatsApp Image 2022-11-30 at 6.34.36 PM.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,350 @@
+H:\Project PsyTestManagement\PsyTestManagement\PsyTestManagement\bin\Debug\PsyTestManagement.exe.config
+H:\Project PsyTestManagement\PsyTestManagement\PsyTestManagement\bin\Debug\PsyTestManagement.exe
+H:\Project PsyTestManagement\PsyTestManagement\PsyTestManagement\bin\Debug\PsyTestManagement.pdb
+H:\Project PsyTestManagement\PsyTestManagement\PsyTestManagement\bin\Debug\TestManagement.dll
+H:\Project PsyTestManagement\PsyTestManagement\PsyTestManagement\bin\Debug\TestManagement.pdb
+H:\Project PsyTestManagement\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.AssemblyReference.cache
+H:\Project PsyTestManagement\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.SuggestedBindingRedirects.cache
+H:\Project PsyTestManagement\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmDashboard.resources
+H:\Project PsyTestManagement\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmEnterExam.resources
+H:\Project PsyTestManagement\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmForgot_Password.resources
+H:\Project PsyTestManagement\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmLogin.resources
+H:\Project PsyTestManagement\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.Properties.Resources.resources
+H:\Project PsyTestManagement\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.GenerateResource.cache
+H:\Project PsyTestManagement\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.CoreCompileInputs.cache
+H:\Project PsyTestManagement\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.CopyComplete
+H:\Project PsyTestManagement\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.exe
+H:\Project PsyTestManagement\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.pdb
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmDashboard.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmForgot_Password.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmLogin.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmLayoutDashboard.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.Properties.Resources.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.exe
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.pdb
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\bin\Debug\PsyTestManagement.exe.config
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\bin\Debug\PsyTestManagement.exe
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\bin\Debug\PsyTestManagement.pdb
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\bin\Debug\TestManagement.dll
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\bin\Debug\TestManagement.pdb
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.CopyComplete
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.ResolveComReference.cache
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmStaff.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmStaff_Registration.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmUpdateStaff_Information.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmEditAdmin.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmChange_Password.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmNewTestPaper.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmTestManagement.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.aa.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.mr-IN.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.mr.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmAddTestType.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\bin\Debug\aa\PsyTestManagement.resources.dll
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\bin\Debug\mr-IN\PsyTestManagement.resources.dll
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\bin\Debug\mr\PsyTestManagement.resources.dll
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\aa\PsyTestManagement.resources.dll
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\mr-IN\PsyTestManagement.resources.dll
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\mr\PsyTestManagement.resources.dll
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.Admin.frmClientresult.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.Admin.Result.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.Admin.Resultgraph.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmReports.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmStartTest.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmTestInformation.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PSYTestManagement.frmTestView.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\bin\Debug\Print.dll
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\Testmgt.FrmAbove18.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\Testmgt.FrmBelow18.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\Testmgt.FrmStudentRegistration.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmStudentInfo.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmAbove18.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmBelow18.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\Client_Student_Information_2.frmEnterExam.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\Client_Student_Information_2.frmStud_Reg.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\Interop.Office2013CustomActionsLib.dll
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmAddPayment.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmPayment.resources
+C:\Users\Dell\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmReceipt.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\bin\Debug\PsyTestManagement.exe.config
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\bin\Debug\PsyTestManagement.exe
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\bin\Debug\PsyTestManagement.pdb
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\bin\Debug\aa\PsyTestManagement.resources.dll
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\bin\Debug\mr-IN\PsyTestManagement.resources.dll
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\bin\Debug\mr\PsyTestManagement.resources.dll
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\bin\Debug\Print.dll
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\bin\Debug\TestManagement.dll
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\bin\Debug\TestManagement.pdb
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\Interop.Office2013CustomActionsLib.dll
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\Testmgt.FrmAbove18.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\Testmgt.FrmBelow18.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\Client_Student_Information_2.frmEnterExam.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.Admin.frmClientresult.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmDashboard.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmEditAdmin.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmForgot_Password.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmLogin.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmAddPayment.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmAddTestType.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmNewTestPaper.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmPayment.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmReceipt.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmStartTest.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmTestInformation.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmTestManagement.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PSYTestManagement.frmTestView.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmLayoutDashboard.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.Properties.Resources.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmReports.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.Admin.Result.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.Admin.Resultgraph.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmStaff.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmStaff_Registration.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmStudentInfo.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\Testmgt.FrmStudentRegistration.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\Client_Student_Information_2.frmStud_Reg.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmUpdateStaff_Information.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmAbove18.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmBelow18.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.aa.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.mr-IN.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.mr.resources
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\aa\PsyTestManagement.resources.dll
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\mr-IN\PsyTestManagement.resources.dll
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\mr\PsyTestManagement.resources.dll
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.CopyComplete
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.exe
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.pdb
+C:\Users\Admin\Desktop\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmChangePassword.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\bin\Debug\PsyTestManagement.exe.config
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\bin\Debug\PsyTestManagement.exe
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\bin\Debug\PsyTestManagement.pdb
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\bin\Debug\aa\PsyTestManagement.resources.dll
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\bin\Debug\mr-IN\PsyTestManagement.resources.dll
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\bin\Debug\mr\PsyTestManagement.resources.dll
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\bin\Debug\Print.dll
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\bin\Debug\TestManagement.dll
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\bin\Debug\TestManagement.pdb
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\Interop.Office2013CustomActionsLib.dll
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.ResolveComReference.cache
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\Testmgt.FrmAbove18.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\Testmgt.FrmBelow18.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmChangePassword.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\Client_Student_Information_2.frmEnterExam.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.Admin.frmClientresult.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmDashboard.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmEditAdmin.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmForgot_Password.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmLogin.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmAddTestType.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmNewTestPaper.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmStartTest.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmTestInformation.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmTestManagement.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PSYTestManagement.frmTestView.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmLayoutDashboard.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.Properties.Resources.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.Admin.Result.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.Admin.Resultgraph.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmStaff.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmStaff_Registration.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmStudentInfo.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\Testmgt.FrmStudentRegistration.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\Client_Student_Information_2.frmStud_Reg.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmUpdateStaff_Information.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmAbove18.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmBelow18.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.aa.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.mr-IN.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.mr.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\aa\PsyTestManagement.resources.dll
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\mr-IN\PsyTestManagement.resources.dll
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\mr\PsyTestManagement.resources.dll
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.CopyComplete
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.exe
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.pdb
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.Reports.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmAddPayment.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmPayment.resources
+C:\Users\Dell\Desktop\Saurabh\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmReceipt.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\PsyTestManagement.exe.config
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\PsyTestManagement.exe
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\PsyTestManagement.pdb
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\aa\PsyTestManagement.resources.dll
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\mr-IN\PsyTestManagement.resources.dll
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\mr\PsyTestManagement.resources.dll
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\Print.dll
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\TestManagement.dll
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\TestManagement.pdb
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\Interop.Office2013CustomActionsLib.dll
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.ResolveComReference.cache
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\Testmgt.FrmAbove18.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\Testmgt.FrmBelow18.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmChangePassword.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\Client_Student_Information_2.frmEnterExam.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.Admin.frmClientresult.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmDashboard.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmEditAdmin.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmForgot_Password.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmLogin.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmAddPayment.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmAddTestType.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmNewTestPaper.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmPayment.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmReceipt.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmStartTest.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmTestInformation.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmTestManagement.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PSYTestManagement.frmTestView.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmLayoutDashboard.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.Properties.Resources.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.Reports.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.Admin.Result.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.Admin.Resultgraph.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmStaff.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmStaff_Registration.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmStudentInfo.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\Testmgt.FrmStudentRegistration.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\Client_Student_Information_2.frmStud_Reg.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmUpdateStaff_Information.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmAbove18.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmBelow18.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.aa.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.mr-IN.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.mr.resources
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\aa\PsyTestManagement.resources.dll
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\mr-IN\PsyTestManagement.resources.dll
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\mr\PsyTestManagement.resources.dll
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.CopyComplete
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.exe
+C:\Users\Dell\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.pdb
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\PsyTestManagement.exe.config
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\PsyTestManagement.exe
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\PsyTestManagement.pdb
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\aa\PsyTestManagement.resources.dll
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\mr-IN\PsyTestManagement.resources.dll
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\mr\PsyTestManagement.resources.dll
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\Print.dll
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\TestManagement.dll
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\TestManagement.pdb
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\Interop.Office2013CustomActionsLib.dll
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\Testmgt.FrmAbove18.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\Testmgt.FrmBelow18.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmChangePassword.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\Client_Student_Information_2.frmEnterExam.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.Admin.frmClientresult.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmDashboard.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmEditAdmin.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmForgot_Password.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmLogin.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmAddPayment.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmAddTestType.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmNewTestPaper.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmPayment.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmReceipt.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmStartTest.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmTestInformation.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmTestManagement.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PSYTestManagement.frmTestView.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmLayoutDashboard.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.Properties.Resources.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.Reports.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.Admin.Result.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.Admin.Resultgraph.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmStaff.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmStaff_Registration.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmStudentInfo.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\Testmgt.FrmStudentRegistration.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\Client_Student_Information_2.frmStud_Reg.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmUpdateStaff_Information.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmAbove18.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmBelow18.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.aa.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.mr-IN.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.mr.resources
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\aa\PsyTestManagement.resources.dll
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\mr-IN\PsyTestManagement.resources.dll
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\mr\PsyTestManagement.resources.dll
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.CopyComplete
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.exe
+C:\Users\Admin\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.pdb
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\PsyTestManagement.exe.config
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\PsyTestManagement.exe
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\PsyTestManagement.pdb
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\aa\PsyTestManagement.resources.dll
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\mr-IN\PsyTestManagement.resources.dll
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\mr\PsyTestManagement.resources.dll
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\Print.dll
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\TestManagement.dll
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\bin\Debug\TestManagement.pdb
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.ResolveComReference.cache
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\Testmgt.FrmAbove18.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\Testmgt.FrmBelow18.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmChangePassword.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\Client_Student_Information_2.frmEnterExam.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.Admin.frmClientresult.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmDashboard.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmEditAdmin.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmForgot_Password.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmLogin.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmAddPayment.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmAddTestType.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmNewTestPaper.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmPayment.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmReceipt.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmStartTest.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmTestInformation.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmTestManagement.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PSYTestManagement.frmTestView.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.frmLayoutDashboard.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.Properties.Resources.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.Reports.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.Admin.Result.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\TestManagement.Admin.Resultgraph.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmStaff.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmStaff_Registration.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmStudentInfo.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\Testmgt.FrmStudentRegistration.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\Client_Student_Information_2.frmStud_Reg.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmUpdateStaff_Information.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmAbove18.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.FrmBelow18.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.aa.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.mr-IN.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.frmAddQue.mr.resources
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\aa\PsyTestManagement.resources.dll
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\mr-IN\PsyTestManagement.resources.dll
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\mr\PsyTestManagement.resources.dll
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.csproj.CopyComplete
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.exe
+C:\Users\admin\OneDrive\Desktop\Psy Final\PsyTestManagement\PsyTestManagement\obj\Debug\PsyTestManagement.pdb
